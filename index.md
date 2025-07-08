@@ -52,8 +52,14 @@
   </div>
 </div>
 <div>
+
+<video src="media/kobe copy.mp4" width="320" height="240" controls></video>
+
   <video width="320" height="240" controls>
-    <source src="media/kobe.MP4" type="media/MP4">
+    <source src="media/kobe copy.mp4" type="video/mp4">
+  </video>
+  <video width="320" height="240" controls>
+    <source src="media/kobe.MP4" type="video/MP4">
   </video>
 </div>
 I'm so silly 😛😋
