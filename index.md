@@ -1,5 +1,5 @@
 
-<!-- ## <span class="section-title">Welcome to my website! :)</span> -->
+## <span class="section-title">Welcome to my website! :)</span>
 
 <style>
 .gallery {
@@ -10,6 +10,9 @@
   padding: 30px 0;
   border-radius: 20px;
   margin-bottom: 30px
+}
+.site-footer .footer-heading {
+  display: none;
 }
 .polaroid {
   background: white;
