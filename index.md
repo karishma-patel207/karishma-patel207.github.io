@@ -1,5 +1,5 @@
 
-## <span class="section-title">Welcome to my website! :)</span>
+<!-- ## <span class="section-title">Welcome to my website! :)</span> -->
 
 <style>
 .gallery {
