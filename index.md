@@ -5,7 +5,7 @@
 .gallery {
   display: flex;
   gap: 20px;
-  justify-content: ce nter;
+  justify-content: center;
   background: #ffe0f0;
   padding: 30px 0;
   border-radius: 20px;
@@ -19,8 +19,13 @@
   padding: 10px 10px 30px 10px;
   text-align: center;
   position: relative;
-  width: 180px;
+  width: 300px;
 }
+.polaroid img {
+  width: 100%;
+  height: auto;
+}
+
 .polaroid-video {
   background: white;
   border: 4px solid #ffb6d5;
@@ -30,7 +35,7 @@
   text-align: center;
   position: middle;
   width: 320px;
-}
+  }
 .heart {
   position: absolute;
   top: 10px;
@@ -93,14 +98,18 @@
   </div>
   
 </div>
+<div style="display: flex; justify-content: center;">
 <div class ="about-text">
   <p>Some <strong>2025 goals</strong>:</p>
-  <li>Sit the CFA Level 1 exam in November 📆</li>
-  <li>Drink more water 💧</li>
-  <li>Go on runs and gym more regularly! 🏃🏽‍♀️💪🏾</li>
+  <ul>
+    <li>Sit the CFA Level 1 exam in November 📆</li>
+    <li>Drink more water 💧</li>
+    <li>Go on runs and gym more regularly! 🏃🏽‍♀️💪🏾</li>
+  </ul>
   <p>This site is for me to challenge myself and keep a record of my favourite books and cafes that I visit. I am working in Corporate Finance and eventually could post some deals I've worked on, so watch the space! ... 👀</p>
   
 
+</div>
 </div>
 <div style="display: flex; justify-content: center; margin: 10px 0;">
 <div class= "polaroid-video">
