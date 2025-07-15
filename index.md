@@ -67,7 +67,7 @@
 
 <div style="display: flex; justify-content: center; margin: 0px 0;">
  <div class="about-text">
-      <p>Hi! I’m Karishma 🤓 </p>
+      <p>Hello! I’m Karishma 🤓 </p>
       <p>I love <strong>reading</strong>, <strong>listening to music</strong>, and spending time with <strong>friends & family</strong>. Something you should know about me is my favourite time of year is <strong>Garba! 💃🏽🪷</strong></p>
     </div> 
   </div>
@@ -88,7 +88,7 @@
   
   <div class="polaroid">
     <span class="heart">💕</span>
-    <img src="media/call.jpg" alt="Photo 3" width="150">
+    <img src="media/call.JPG" alt="Photo 3" width="150">
     <div>Call me maybe?☎️</div>
   </div>
   
